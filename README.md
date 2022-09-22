@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map https://elianaso.github.io/leaflet-storymaps-with-google-sheets/
+- Leaflet Map https://elianaso.github.io/leaflet-storymaps-with-google-sheets/#2
 - Google Sheets template https://docs.google.com/spreadsheets/d/1eQQxSoZ8kILnH5Kds2sQuQqSgFFp_V61hOR5XmtpGpM/edit#gid=0
 
 ## Create Your Own
